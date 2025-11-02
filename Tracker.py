@@ -1,6 +1,6 @@
 # -----------------------------------------------------------
 # Name: Akshit
-# Date: 19 September 2024
+# Date: 1 november 2025
 # Project Title: Daily Calorie Tracker CLI
 # -----------------------------------------------------------
 
@@ -73,3 +73,4 @@ else:
     print("Report not saved.")
 
 print("\nThank you for using the Daily Calorie Tracker.")
+
